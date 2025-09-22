@@ -137,6 +137,7 @@ Recent news, announcements, and noteworthy updates circulating in the AI researc
 ## Commercial Platforms
 
 *   [AI Researcher](https://ai-researcher.net/)
+*   [aiXiv](https://aixiv.org/) - Next-generation open access ecosystem for AI scientists [[Paper]](https://arxiv.org/abs/2508.15126)
 *   [AiraXiv](https://airaxiv.com/)
 *   [Elicit](https://elicit.org/)
 *   [Consensus](https://consensus.app/)
@@ -305,6 +306,7 @@ Recent news, announcements, and noteworthy updates circulating in the AI researc
 -   Biomni: A general-purpose biomedical ai agent [[Paper]](https://www.biorxiv.org/content/10.1101/2025.05.30.656746v1) [No Review]
 -   ResearchCodeAgent: An LLM Multi-Agent System for Automated Codification of Research Methodologies [[Paper]](https://arxiv.org/abs/2504.20117) ![](https://img.shields.io/badge/arXiv-2025.04-red?logo=arxiv) [[AI Review]](https://ai-researcher.net/abs/2504.20117)
 -   Scientific Hypothesis Generation and Validation: Methods, Datasets, and Future Directions [[Paper]](https://arxiv.org/abs/2505.04651) ![](https://img.shields.io/badge/arXiv-2025.05-red?logo=arxiv) [[AI Review]](https://ai-researcher.net/abs/2505.04651)
+-   GenoMAS: A Multi-Agent Framework for Scientific Discovery via Code-Driven Gene Expression Analysis [[Paper]](https://arxiv.org/abs/2507.21035) ![](https://img.shields.io/badge/arXiv-2025.07-red?logo=arxiv) [[Code]](https://github.com/Liu-Hy/GenoMAS) [[AI Review]](https://ai-researcher.net/abs/2507.21035)
 
 ### 3.2. Evaluation
 
@@ -312,6 +314,7 @@ Recent news, announcements, and noteworthy updates circulating in the AI researc
 -   Mle-bench: Evaluating machine learning agents on machine learning engineering [[Paper]](https://arxiv.org/abs/2410.07095) ![](https://img.shields.io/badge/arXiv-2024.10-red?logo=arxiv) [[Review]](https://openreview.net/forum?id=3k74sH29l2)
 -   Ml-dev-bench: Comparative analysis of ai agents on ml development workflows [[Paper]](https://arxiv.org/abs/2502.00964) ![](https://img.shields.io/badge/arXiv-2025.02-red?logo=arxiv) [[AI Review]](https://ai-researcher.net/abs/2502.00964)
 -   Scireplicate-bench: Benchmarking llms in agent-driven algorithmic reproduction from research papers [[Paper]](https://arxiv.org/abs/2504.00255) ![](https://img.shields.io/badge/arXiv-2025.04-red?logo=arxiv) [[AI Review]](https://ai-researcher.net/abs/2504.00255)
+-   GenoTEX: An LLM Agent Benchmark for Automated Gene Expression Data Analysis [[Paper]](https://arxiv.org/abs/2406.15341) ![](https://img.shields.io/badge/MLCB-2025-blue?logo=arxiv) [[Code]](https://github.com/Liu-Hy/GenoTEX) [[AI Review]](https://ai-researcher.net/abs/2406.15341)
 -   Paperbench: Evaluating ai's ability to replicate ai research [[Paper]](https://arxiv.org/abs/2504.01848) ![](https://img.shields.io/badge/arXiv-2025.04-red?logo=arxiv) [[AI Review]](https://ai-researcher.net/abs/2504.01848)
 -   MLRC-Bench: Can Language Agents Solve Machine Learning Research Challenges? [[Paper]](https://arxiv.org/abs/2504.09702) ![](https://img.shields.io/badge/arXiv-2025.04-red?logo=arxiv) [[AI Review]](https://ai-researcher.net/abs/2504.09702)
 -   ScienceBoard: Evaluating Multimodal Autonomous Agents in Realistic Scientific Workflows [[Paper]](https://arxiv.org/abs/2505.19897) ![](https://img.shields.io/badge/arXiv-2025.05-red?logo=arxiv) [[AI Review]](https://ai-researcher.net/abs/2505.19897)
