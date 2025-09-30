@@ -457,7 +457,7 @@ Join the conversation and exchange ideas in these online communities:
 
 *   **AI Scientist Research Discussion Group:** [![Platform](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)]() <!-- Removed placeholder link -->
     </br>
-    <img src="https://raw.githubusercontent.com/ResearAI/Awesome-AI-Scientist/main/img/WeChat.jpg" alt="AI Scientist WeChat Group QR Code" width="150">
+    <img src="https://github.com/ResearAI/Awesome-AI-Scientist/blob/main/img/WeChat.jpg?raw=true" alt="AI Scientist WeChat Group QR Code" width="150">
     </br>*(Scan QR Code to join. If expired, please contact maintainer via Email: 18856306350@163.com or WeChat: nauhcutnil)*
 
 
