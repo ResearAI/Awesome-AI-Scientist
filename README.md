@@ -136,16 +136,14 @@ Recent news, announcements, and noteworthy updates circulating in the AI researc
 <!-- omit in toc -->
 ## Commercial Platforms
 
-*   [AI Researcher](https://ai-researcher.net/)
-*   [aiXiv](https://aixiv.org/) - Next-generation open access ecosystem for AI scientists [[Paper]](https://arxiv.org/abs/2508.15126)
-*   [AiraXiv](https://airaxiv.com/)
-*   [Elicit](https://elicit.org/)
-*   [Consensus](https://consensus.app/)
-*   [SciSpace](https://scispace.com/)
-*   [Wolfram Research Assistant](https://www.wolfram.com/research-assistant/)
-*   [IBM Watson Discovery](https://www.ibm.com/cloud/watson-discovery)
-*   [Overleaf AI](https://www.overleaf.com)
-
+* [AI Researcher](https://ai-researcher.net/) – Automated literature exploration with structured breakdowns of papers and research topics.
+* [aiXiv](https://aixiv.science/) – AI-powered search and summarization engine for arXiv papers with fast topic filtering.
+* [AiraXiv](https://airaxiv.com/) – Natural-language arXiv assistant that summarizes, compares, and explains research papers.
+* [Elicit](https://elicit.org/) – Research assistant that answers questions using relevant papers and evidence extraction.
+* [Consensus](https://consensus.app/) – Fact-focused search engine that identifies scientific consensus from peer-reviewed studies.
+* [SciSpace](https://scispace.com/) – Multi-tool research platform offering paper explanations, summaries, and citation support.
+* [IBM Watson Discovery](https://www.ibm.com/cloud/watson-discovery) – Enterprise-grade AI search and document analysis for large research corpora.
+* [Overleaf AI](https://www.overleaf.com) – AI assistant integrated into Overleaf for writing, editing, and refining LaTeX documents.
 
 # 📚 1. Knowledge Acquisition
 
