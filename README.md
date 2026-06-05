@@ -380,6 +380,7 @@ Recent news, announcements, and noteworthy updates circulating in the AI researc
 -   Peerqa: A scientific question answering dataset from peer reviews [[Paper]](https://arxiv.org/abs/2502.13668) ![](https://img.shields.io/badge/arXiv-2025.02-red?logo=arxiv) [[AI Review]](https://ai-researcher.net/abs/2502.13668)
 -   Is your paper being reviewed by an llm? a new benchmark dataset and approach for detecting ai text in peer review [[Paper]](https://arxiv.org/abs/2502.19614) ![](https://img.shields.io/badge/arXiv-2025.02-red?logo=arxiv) [[AI Review]](https://ai-researcher.net/abs/2502.19614)
 -   Automatic evaluation metrics for artificially generated scientific research [[Paper]](https://arxiv.org/abs/2503.05712) ![](https://img.shields.io/badge/arXiv-2025.03-red?logo=arxiv) [[AI Review]](https://ai-researcher.net/abs/2503.05712)
+-   REFUTE: A benchmark for scientific critique and epistemic calibration in language models [[Paper]](https://huggingface.co/datasets/BGPT-OFFICIAL/refute/blob/main/TECHNICAL_REPORT.md) [No Review]
 
 ---
 
