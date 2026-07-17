@@ -430,6 +430,7 @@ Recent news, announcements, and noteworthy updates circulating in the AI researc
 *   **AAAR-1.0** [[Paper]](https://arxiv.org/abs/2410.22394) ![](https://img.shields.io/badge/arXiv-2024.10-red?logo=arxiv)
 *   **MLGym** [[Paper]](https://arxiv.org/abs/2502.14499) ![](https://img.shields.io/badge/arXiv-2025.02-red?logo=arxiv) [[Code](https://github.com/facebookresearch/MLGym)]
 *   **PaperBench** [[Paper]](https://cdn.openai.com/papers/22265bac-3191-44e5-b057-7aaacd8e90cd/paperbench.pdf) ![](https://img.shields.io/badge/OpenAI_Report-2025-brown) [[Code](https://github.com/openai/preparedness)]
+*   **MLS-Bench** [[Paper]](https://arxiv.org/abs/2605.08678) ![](https://img.shields.io/badge/arXiv-2026.05-red?logo=arxiv) [[Code](https://github.com/Imbernoulli/MLS-Bench)]
 
 ---
 
