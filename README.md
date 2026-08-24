@@ -131,6 +131,7 @@ Recent news, announcements, and noteworthy updates circulating in the AI researc
 | [SciKit-LLM](https://github.com/iryna-kondr/scikit-llm) | Integration of LLMs into scientific workflows. | ![](https://img.shields.io/github/stars/iryna-kondr/scikit-llm?style=social) | [GitHub](https://github.com/iryna-kondr/scikit-llm) |
 | [CoScientist](https://github.com/gomesgroup/coscientist) | Autonomous chemical research with LLMs. | ![](https://img.shields.io/github/stars/gomesgroup/coscientist?style=social) | [GitHub](https://github.com/gomesgroup/coscientist) |
 | [PaperRobot](https://github.com/EagleW/PaperRobot) | Incremental Draft Generation of Scientific Ideas. | ![](https://img.shields.io/github/stars/EagleW/PaperRobot?style=social) | [GitHub](https://github.com/EagleW/PaperRobot) |
+| [Lune Research](https://github.com/RetrogradeLabs/lune-mcp-server) | MCP server for full-text top-venue computer-science paper search, citation traversal, cross-paper evidence extraction, and quote-backed claim verification. | ![](https://img.shields.io/github/stars/RetrogradeLabs/lune-mcp-server?style=social) | [GitHub](https://github.com/RetrogradeLabs/lune-mcp-server) |
 
 
 <!-- omit in toc -->
